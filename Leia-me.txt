@@ -1,0 +1,9 @@
+1. As tabelas do projeto estão dentro da pasta (Restaurante\Restaurante (Novo)\BD\Projeto Restaurante.sql) e também no item 4. (4. BANCO DE DADOS) e deverão ser criadas no MySQL Workbench. (Necessária a criação do banco antes da inicialização, incluindo o INSERT para o usuário “Administrador”).
+2. O Login e senha é feito através da conta de administrador (“admin/123456”) para acesso inicial. Pode-se criar um novo usuário através de Usuário/Cadastrar Usuário no Menu Principal do sistema.
+3. É necessário o MySQL Connector Java para rodar o projeto, este arquivo JAR está disponível na pasta do projeto.
+4. Na classe AcessoBD.java é necessário colocar o usuário e senha do MySQL que será usado no Computador em questão.
+5. Procedimentos para execução do programa:
+5.1. - Copiar todas ".properties" localizadas em Restaurante\Restaurante (Novo)\Properties;
+5.2. - Colar todas ".properties" em Restaurante\Restaurante (Novo)\bin;
+5.3. - Seguir Restaurante\Restaurante(Novo)\src\Interface\MainRestauranteView;
+5.4. - Executar “MainRestauranteView.java”;

@@ -1,0 +1,4 @@
+1 = Supervisor
+2 = Garçom
+3 = Cozinheiro
+4 = Caixa
